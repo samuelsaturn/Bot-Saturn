@@ -1,0 +1,9 @@
+# .gitignore
+
+# Pastas a serem ignoradas
+venv/
+discord/
+
+# Arquivos específicos a serem ignorados
+key.py
+
